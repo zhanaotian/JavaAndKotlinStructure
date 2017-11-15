@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaAndKotlinStructure.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaAndKotlinStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaAndKotlinStructure_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaAndKotlinStructure_main.iml" group="JavaAndKotlinStructure" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaAndKotlinStructure_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaAndKotlinStructure_test.iml" group="JavaAndKotlinStructure" />
     </modules>
   </component>
 </project>
